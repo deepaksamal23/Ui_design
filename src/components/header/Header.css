@@ -1,0 +1,152 @@
+.container {
+  position: relative;
+  width: 108px;
+  height: 954px;
+  left: -640px;
+  top: -16px;
+  background: #ffffff;
+  color: #29b712;
+  border: 1px solid #ececec;
+}
+
+.child_container {
+  position: absolute;
+  width: 43px;
+  height: 704px;
+  left: 17px;
+  /* top: 86px; */
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  /* or 88px */
+
+  text-align: center;
+}
+
+.logo {
+  position: absolute;
+  width: 85px;
+  height: 77px;
+  left: 0px;
+  top: 0px;
+
+  background: #29b712;
+}
+
+.menu1 {
+  position: absolute;
+  width: 43px;
+  height: 704px;
+  left: 17px;
+  top: 86px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  color: #29b712;
+  /* or 88px */
+
+  text-align: center;
+}
+
+.menu2 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 30px;
+  top: 185px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  text-align: center;
+}
+
+.menu3 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 26px;
+  top: 269px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  text-align: center;
+}
+
+.menu4 {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 22px;
+  top: 351px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  text-align: center;
+}
+
+.menu5 {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  left: 25px;
+  top: 444px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  text-align: center;
+}
+
+.menu6 {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  left: 24px;
+  top: 529px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  text-align: center;
+}
+
+.menu7 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 26px;
+  top: 615px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 880%;
+  text-align: center;
+}
+
+@media (min-width:768) and ( max-width:1024px) {
+  .container {
+    position: relative;
+    width: 108px;
+    height: 954px;
+    left: -347px;
+    top: -16px;
+    background: #ffffff;
+    color: #29b712;
+    border: 1px solid #ececec;
+  }
+}
